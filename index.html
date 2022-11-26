@@ -51,7 +51,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Research</heading>
+              <heading>Research Interest</heading>
               
               
               <p>
@@ -71,26 +71,33 @@
         </tbody></table>
 
 
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Research Experience</heading>
+            </td>
+          </tr>
 
-        
+        </tbody></table>
+       
 
         <h3><center>Machine Learning (GNNs, Interpretable ML)</center></h3>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          
+
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="images/stag.png" alt="prl" width="160" height="160">
+              <img src="images/md.png" alt="prl" width="160" height="160">
             </td>
 
             <td width="75%" valign="middle">
-              <papertitle>Spatial-Temporal Attention Graph Neural Networks (STAGNN)</papertitle>
+              <papertitle>Molecular Dynamics Prediction with ST-EGNN </papertitle>
 
               <br>
               <strong>Zhichao Hou</strong>, Wenbing Huang
               <br>
               Institute for AI Industry Research, Tsinghua University
               <br>
-              Intelligent Transportation Department, Baidu
+              AI Lab, Tencent
               <br>
 
               <p>
@@ -98,14 +105,14 @@
               </p>
         
               <p>
-                <li>Leveraged Graph Learner to learn the graph structure from data instead of pre-defining it</li>
-                <li>Constructed novel GNNs structure to capture the spatial dependencies in graphs</li>
-                <li>Introduced attention mechanisms to model the temporal dynamics of the time series</li>
-                <li>Traffic flow predicton: learnable adjacency matrix, multi-task learning</li>
-                <li>Protein molecular dynamics: equivariant geometric GNNs</li>
+                <li>Introduced FFT to extract equivariant features from molecular dynamics trajectory</li>
+                <li>Leveraged equivariant geometric GNNs capture the spatial dependencies in molecular graph</li>
+                <li>Constructed a novel equivariant attention-based encoder to model the temporal dynamics</li>
               </p>
             </td>
           </tr>
+
+
 
 
           <tr>
@@ -125,7 +132,7 @@
               Computational Biology Laboratory, Oregon Health and Science University
               
               <p>
-              <em>Bioinformatics (Submitted)</em>, 2022
+              <em>Bioinformatics (Under Review)</em>, 2022
               <br>
               <a href="data/pathexpsurv.pdf">PDF</a> / <a href="https://github.com/chris-hzc/PathExpSurv">Code</a>
               </p>
@@ -150,8 +157,8 @@
             </td>
 
             <td width="75%" valign="middle">
-              <papertitle>Single-Cell ATAC-seq analysis via Network Refinement 
-                with peaks location information</papertitle>
+              <papertitle> <a href=https://doi.org/10.1101/2022.11.18.517159 >Single-Cell ATAC-seq analysis via Network Refinement 
+                with peaks location information</a></papertitle>
 
               <br>
               Jiating Yu, Duanchen Sun, <strong>Zhichao Hou</strong>, Lingyun Wu
@@ -159,9 +166,9 @@
               Operations Research Laboratory, Academy of Mathematics and Systems Science
   
               <p>
-              <em>Submitted</em>, 2022
+              <em> Nature Methods (Under Review)</em>, 2022
               <br>
-              <a href="https://github.com/Wu-Lab/SCARP">Code</a>
+              <a href="data/pathexpsurv.pdf">PDF</a> / <a href="https://github.com/Wu-Lab/SCARP">Code</a>
               </p>
               
               
@@ -188,11 +195,11 @@
 
 
 
-
+        <h3><center>Optimal Transport</center></h3>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           
-          <h3><center>Optimal Transport</center></h3>
+          
           
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -211,8 +218,10 @@
               </p>
         
               <p>
-                <li>Studied the theory of WDRO and deduced the analytical form of dual DRO</li>
-                <li>Applied WDRO in ML problems (classification, regression, MLE, MMSE estimation)</li>
+
+        
+                <li>Studied intensively on WDRO in classical ML problems (classification, regression, MLE, MMSE)</li>
+                <li>WDRO achieved better generalization and robustness against in SVM, Gaussian MLE, KF</li>
               </p>
             </td>
           </tr>
@@ -239,7 +248,7 @@
               <p>
                 <li>Studied Sinkhorn algorithm based on entropy regularization theory</li>
                 <li>Researched Gibbs-OT algorithm based on Boltzmann distribution</li>
-                <li>Implemented Sinkhorn and Gibbs-OT algorithm in MINST dataset</li>
+                <li>Implemented Sinkhorn and Gibbs-OT algorithm in mage registration problem</li>
               </p>
             </td>
           </tr>
@@ -247,6 +256,70 @@
 
 
         </tbody></table>
+
+
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Industrial Experience</heading>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <img src="images/stag.png" alt="prl" width="160" height="160">
+          </td>
+
+          <td width="75%" valign="middle">
+            <papertitle>Molecular Dynamics Prediction with ST-EGNN </papertitle>
+
+            <p> <a href="https://jiaotong.baidu.com/urbantraffic/" >Intelligent Transportation Department</a>, Baidu</p>
+            
+            <p>
+            <em>Internship</em>, March 2022 - June 2022
+            </p>
+      
+            <p>
+              <li>Proposed Graph Learner to learn the dynamic graph structure from traffic flow data</li>
+              <li>Constructed STAGNN to capture the spatial and temporal dependencies of the traffic graph time series</li>
+              <li>Achieved 25% performance improvement comparing to Baidu official baseline</li>
+              
+            </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <img src="images/sigcwan.png" alt="prl" width="160" height="160">
+          </td>
+
+          <td width="75%" valign="middle">
+            <papertitle>Financial Time Series Data Generation with SigCWAN </papertitle>
+
+            <p> <a href="https://www.ai-quants.com/">AI-Quant Ltd</a>, Beijing</p>
+            
+            <p>
+            <em>Internship</em>, June 2021 - Septemper 2021
+            </p>
+      
+            <p>
+            <li>Got insight into the drawbacks of GAN & WGAN in data generation</li>
+            <li>Researched on SigCWGAN which leveraged path signature as a tool to improve WGAN</li>
+            <li>Achieved stable training process and the generated data passed six financial data tests</li>
+            </p>
+          </td>
+        </tr>
+
+          </tbody></table>
+
+
+
 
 				
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
