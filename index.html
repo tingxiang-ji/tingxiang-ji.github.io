@@ -20,7 +20,7 @@
               <p style="text-align:center">
                 <name>Zhichao (Chris) Hou / 侯智超</name>
               </p>
-              <p>I am currently a master student in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Methematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
+              <p> I got my master degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Methematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
               I received my B.E. in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.</p>
 
               <p>
@@ -58,7 +58,7 @@
                 I'm interested in Graph Neural Networks, Optimal Transport, Optimization and Bioinformatics.
                 <li><strong>Graph Neural Networks</strong>
                   <br>
-                  Spatial-Temporal GNNs, Equivariant Geometric GNNs</li>
+                  Robustness on Graphs, Spatial-Temporal GNNs, Equivariant Geometric GNNs</li>
                 
                 <li><strong>Optimal Transport (Wassersetin Metric)</strong>
                 <br>
@@ -84,16 +84,83 @@
         <h3><center>Machine Learning (GNNs, Interpretable ML)</center></h3>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/bbrw.png" alt="prl" width="160" height="160">
+            </td>
+
+            <td width="75%" valign="middle">
+              <papertitle><a href="https://arxiv.org/abs/2306.02002#:~:text=This%20work%20presents%20the%20first,GNNs%20are%20not%20adversarially%20robust.">Can Directed Graph Neural Networks be Adversarially Robust?</a></papertitle>
+
+              <br>
+              <strong>Zhichao Hou</strong>,  Xitong Zhang, Wei Wang, Charu C. Aggarwal, Xiaorui Liu
+              <br>
+              Department of Computer Science, North Carolina State University
+
+              
+              <p>
+              <em> Preprint</em>, 2023
+
+              </p>
+              
+              
+        
+              <p>
+                <li>Constructed a high-level directed message passing scheme for undirected GNNs, such as GCN, GAT and APPNP  </li>
+                <li>Designed a novel directed adaptive attack to test the robustness of our model</li>
+                <li>Our directed MP scheme is significantly robust to graph adversarial attacks both in both transferable and adaptive sense
+                </li>
+              </p>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/auto-gnn.png" alt="prl" width="160" height="160">
+            </td>
+
+            <td width="75%" valign="middle">
+              <papertitle><a href="https://arxiv.org/abs/2307.07956">Automated Polynomial Filter Learning for Graph Neural Networks</a></papertitle>
+
+              <br>
+              Wendi Yu, <strong>Zhichao Hou</strong>, Xiaorui Liu
+              <br>
+              Department of Computer Science, North Carolina State University
+
+              
+              <p>
+              <em> Preprint</em>, 2023
+
+              </p>
+              
+              
+        
+              <p>
+                <li>Investigated the potential of graph polynomial filter learning</li>
+                <li>Proposed Auto-Polynomial to enhance the performance and generalization of GNNs</li>
+                <li>Evaluated our proposed framework on both homophilic and heterophilic graphs
+                </li>
+              </p>
+            </td>
+          </tr>
+
+
+
+
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="images/md.png" alt="prl" width="160" height="160">
             </td>
 
             <td width="75%" valign="middle">
-              <papertitle>Molecular Dynamics Prediction with ST-EGNN </papertitle>
+              <papertitle>Equivariant Spatio-Temporal Attentive Graph Networks for
+                Physical Dynamics Simulatio</papertitle>
 
               <br>
-              <strong>Zhichao Hou</strong>, Wenbing Huang
+              <strong>Zhichao Hou</strong>, Jirui Yuan, Wenbing Huang
               <br>
               Institute for AI Industry Research, Tsinghua University
               <br>
@@ -101,11 +168,11 @@
               <br>
 
               <p>
-              <em>Research Internship</em>, 2022
-              </p>
+              <em>Preprint</em>, 2023
+              </p> 
         
               <p>
-                <li>Introduced FFT to extract equivariant features from molecular dynamics trajectory</li>
+                <li>Designed a novel Equivariant Discrete Fourier Transform (EDFT) to extract periodic patt</li>
                 <li>Leveraged equivariant geometric GNNs capture the spatial dependencies in molecular graph</li>
                 <li>Constructed a novel equivariant attention-based encoder to model the temporal dynamics</li>
               </p>
