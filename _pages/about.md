@@ -26,22 +26,21 @@ I was a research intern at <a href="https://air.tsinghua.edu.cn/">Institute for 
 
 
 I'm interested in Adversarial Robustness and Graph Neural Networks.
-
-I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
+I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
 
 
 
 # 🔥 News
 
-- *2024.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
-- *2024.07*: &nbsp;🎉🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
+- *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
+- *2024.07*: &nbsp;🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
 - *2024.05*: I join Amazon AWS Guardduty as an Applied Scientist intern at NYC.
-- *2024.05*: &nbsp;🎉🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024.
-- *2024.05*: I receive the Summer Graduate Merit Awards.
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by Briefings in Bioinformatics.
-- *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023. See you in New Orleans!
-- *2023.09*: &nbsp;🎉🎉 One paper is accepted by BMC Bioinformatics.
+- *2024.05*: &nbsp;🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024.
+- *2024.05*: &nbsp;🎉 I receive the Summer Graduate Merit Awards.
+- *2024.03*: &nbsp;🎉 One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
+- *2024.02*: &nbsp;🎉 One paper is accepted by Briefings in Bioinformatics.
+- *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2023. See you in New Orleans!
+- *2023.09*: &nbsp;🎉 One paper is accepted by BMC Bioinformatics.
 - *2023.06*: I join Big Search team in Baidu, Inc. as a research intern at Beijing.
 - *2022.03*: I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.
 
@@ -63,16 +62,21 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.12* Champion of Mingyue Cup Basketball Match of BNU (FMVP)
+- *2017/2018/2019* First-class scholarship of Beijing Normal University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - (now)*, PhD in Computer Science, North Carolina State University, Raleigh 
+- *2020.09 - 2023.06*, MS in Mathematics, Academy of Mathematics and Systems Science, Beijing
+- *2016.09 - 2020.06*, BS in Mathematics, Beijing Normal University, Beijing
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, Robust Transformer, MSU
+- *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.08*,  Amazon, Beijing.
+- *2023.06 - 2023.09*,  Baidu Inc., Beijing.
+- *2022.09 - 2022.12*,  Baidu Inc., Beijing.
+- *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing.
+- *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing.
