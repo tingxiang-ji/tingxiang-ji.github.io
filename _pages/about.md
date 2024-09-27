@@ -75,7 +75,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
-- *2024.05 - 2024.08*,  Amazon, Beijing.
+- *2024.05 - 2024.08*,  Amazon, New York.
 - *2023.06 - 2023.09*,  Baidu Inc., Beijing.
 - *2022.09 - 2022.12*,  Baidu Inc., Beijing.
 - *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing.
