@@ -53,7 +53,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 [ProTransformer: Robustify Transformers via Plug-and-Play Paradigm]()
 
-**Zhichao Hou**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
+**<u>Zhichao Hou</u>**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
 
 *Neural Information Processing Systems (NeurIPS), 2024*
 
@@ -67,7 +67,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 [Robust Graph Neural Networks via Unbiased Aggregation]()
 
-**Zhichao Hou**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
+**<u>Zhichao Hou</u>**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
 
 *Neural Information Processing Systems (NeurIPS), 2024*
 
@@ -81,7 +81,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 [Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing]()
 
-Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
+Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 
 *Neural Information Processing Systems (NeurIPS), 2024*
 
@@ -95,7 +95,7 @@ Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
 [Equivariant spatio-temporal attentive graph networks to simulate physical dynamics](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html)
 
-**Zhichao Hou**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
+**<u>Zhichao Hou</u>**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
 
 *Neural Information Processing Systems (NeurIPS), 2023*
 
@@ -111,7 +111,7 @@ Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
 [HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803)
 
-**Zhichao Hou**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
+**<u>Zhichao Hou</u>**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
 
 *Preprint, 2024*
 
@@ -127,7 +127,7 @@ Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
 [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2)
 
-**Zhichao Hou**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
+**<u>Zhichao Hou</u>**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
 
 *BMC Bioinformatics, 2023*
 
@@ -141,7 +141,7 @@ Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
 [Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis](https://academic.oup.com/bib/article/25/2/bbae093/7630481)
 
-Jiating Yu, Jiacheng Leng, **Zhichao Hou**, Duanchen Sun, Ling-Yun Wu.
+Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 
 *Briefings in Bioinformatics, 2024*
 
@@ -155,7 +155,7 @@ Jiating Yu, Jiacheng Leng, **Zhichao Hou**, Duanchen Sun, Ling-Yun Wu.
 
 [Can Directed Graph Neural Networks be Adversarially Robust?](https://arxiv.org/pdf/2306.02002)
 
-**Zhichao Hou**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
+**<u>Zhichao Hou</u>**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
 
 *Preprint, 2023*
 
@@ -169,7 +169,7 @@ Jiating Yu, Jiacheng Leng, **Zhichao Hou**, Duanchen Sun, Ling-Yun Wu.
 
 [Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
 
-Wendi Yu, **Zhichao Hou**, Xiaorui Liu
+Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 
 *Preprint, 2023*
 
