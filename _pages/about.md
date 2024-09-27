@@ -17,14 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+I am currently Ph.D student of Computer Science at North Caroline State University. I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a> . Before joining NCSU, I got my master degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
+I received my B.E. in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
+
+I was a research intern at <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>,  working with <a href="https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=en&oi=ao">Wenbing Huang</a>, exploring spatial-temporal & equivariant graph neural networks.
+
+
+I'm interested in Adversarial Robustness and Graph Neural Networks.
+
+I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
+- *2024.07*: &nbsp;🎉🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
+- *2024.05*: I join Amazon AWS Guardduty as an Applied Scientist intern at NYC.
+- *2024.05*: &nbsp;🎉🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024.
+- *2024.05*: I receive the Summer Graduate Merit Awards.
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by Briefings in Bioinformatics.
+- *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023. See you in New Orleans!
+- *2023.09*: &nbsp;🎉🎉 One paper is accepted by BMC Bioinformatics.
+- *2023.06*: I join Big Search team in Baidu, Inc. as a research intern at Beijing.
+- *2022.03*: I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.
+
 
 # 📝 Publications 
 
