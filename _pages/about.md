@@ -148,6 +148,30 @@ Briefings in Bioinformatics, 2024
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can Directed Graph Neural Networks be Adversarially Robust?](https://arxiv.org/pdf/2306.02002)
+
+**Zhichao Hou**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
+
+Wendi Yu, **Zhichao Hou**, Xiaorui Liu
+
+</div>
+</div>
+
+
+
 
 
 
