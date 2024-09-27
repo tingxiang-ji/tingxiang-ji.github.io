@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-https://www.ncsu.edu/
-
 I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
 I received my B.S. degree in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
 
