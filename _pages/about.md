@@ -22,7 +22,7 @@ https://www.ncsu.edu/
 I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
 I received my B.S. degree in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
 
-I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>
+I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>.
 
 
 I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
@@ -198,8 +198,7 @@ Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
-- *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. 
-- *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing.
-- *2022.09 - 2022.12*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing.
-- *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing.
-- *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing.
+- *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. Mentor: <a href="https://scholar.google.com/citations?user=UtE9noAAAAAJ&hl=en">Ali Torkamani</a>
+- *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2ZkUaYcAAAAJ">Xiaochi Wei</a>
+- *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing. Mentor: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=31&ruccode=ADIIMVRnBzFXMFdnVTAIOw%3D%3D&ln=en">Wenbing Huang</a>
+- *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?user=n-C-Ii0AAAAJ&hl=en">Ge Wang</a>
