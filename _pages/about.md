@@ -55,7 +55,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 **Zhichao Hou**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
 
-Neural Information Processing Systems (NeurIPS), 2024
+*Neural Information Processing Systems (NeurIPS), 2024*
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 **Zhichao Hou**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
 
-Neural Information Processing Systems (NeurIPS), 2024
+*Neural Information Processing Systems (NeurIPS), 2024*
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
-Neural Information Processing Systems (NeurIPS), 2024
+*Neural Information Processing Systems (NeurIPS), 2024*
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 **Zhichao Hou**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
 
-Neural Information Processing Systems (NeurIPS), 2023
+*Neural Information Processing Systems (NeurIPS), 2023*
 
 </div>
 </div>
@@ -113,7 +113,7 @@ Neural Information Processing Systems (NeurIPS), 2023
 
 **Zhichao Hou**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
 
-Preprint, 2024
+*Preprint, 2024*
 
 </div>
 </div>
@@ -129,7 +129,7 @@ Preprint, 2024
 
 **Zhichao Hou**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
 
-BMC Bioinformatics, 2023
+*BMC Bioinformatics, 2023*
 
 </div>
 </div>
@@ -143,7 +143,7 @@ BMC Bioinformatics, 2023
 
 Jiating Yu, Jiacheng Leng, **Zhichao Hou**, Duanchen Sun, Ling-Yun Wu.
 
-Briefings in Bioinformatics, 2024
+*Briefings in Bioinformatics, 2024*
 
 </div>
 </div>
@@ -157,7 +157,7 @@ Briefings in Bioinformatics, 2024
 
 **Zhichao Hou**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
 
-Preprint, 2023
+*Preprint, 2023*
 
 </div>
 </div>
@@ -171,7 +171,7 @@ Preprint, 2023
 
 Wendi Yu, **Zhichao Hou**, Xiaorui Liu
 
-Preprint, 2023
+*Preprint, 2023*
 
 </div>
 </div>
