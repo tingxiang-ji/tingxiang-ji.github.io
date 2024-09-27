@@ -48,7 +48,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProTransformer: Robustify Transformers via Plug-and-Play Paradigm]()
@@ -62,7 +62,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Graph Neural Networks via Unbiased Aggregation]()
@@ -76,7 +76,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing]()
@@ -90,7 +90,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Equivariant spatio-temporal attentive graph networks to simulate physical dynamics](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html)
@@ -106,7 +106,7 @@ Neural Information Processing Systems (NeurIPS), 2023
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803)
@@ -122,7 +122,7 @@ Preprint, 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/pathexpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2)
@@ -136,7 +136,7 @@ BMC Bioinformatics, 2023
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2024</div><img src='images/SCARP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis](https://academic.oup.com/bib/article/25/2/bbae093/7630481)
@@ -150,7 +150,7 @@ Briefings in Bioinformatics, 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bbrw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can Directed Graph Neural Networks be Adversarially Robust?](https://arxiv.org/pdf/2306.02002)
@@ -164,7 +164,7 @@ Preprint, 2023
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
