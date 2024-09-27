@@ -49,7 +49,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="300" height="200" style="object-fit: cover;"></div></div>
-<div class='paper-box-text' markdown="1" style="width: 600px;">
+<div class='paper-box-text' markdown="1" style="width: 800px;">
 
 [ProTransformer: Robustify Transformers via Plug-and-Play Paradigm]()
 
