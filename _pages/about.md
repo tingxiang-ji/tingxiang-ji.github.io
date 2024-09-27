@@ -95,7 +95,7 @@ Neural Information Processing Systems (NeurIPS), 2024
 
 [Equivariant spatio-temporal attentive graph networks to simulate physical dynamics](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html)
 
-**Zhichao Hou***, Liming Wu*, , Jirui Yuan, Yu Rong, Wenbing Huang
+**Zhichao Hou**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
 
 Neural Information Processing Systems (NeurIPS), 2023
 
