@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhichao Hou (侯智超)"
-description              : " PhD in NCSU, Focusing on Adversarial Robustness.  "
+description              : " PhD in NCSU"
 repository               : "chris-hzc/chris-hzc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhichao Hou"
   avatar           : "images/chris.jpg"
-  bio              : "侯智超"
+  bio              : "zhou4@ncsu.edu"
   location         : "Raleigh, NC"
   employer         :
   pubmed           : 
