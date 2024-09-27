@@ -55,7 +55,7 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 **Zhichao Hou**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
 
-NeurIPS, 2024
+Neural Information Processing Systems (NeurIPS), 2024
 
 </div>
 </div>
@@ -69,7 +69,7 @@ NeurIPS, 2024
 
 **Zhichao Hou**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
 
-NeurIPS, 2024
+Neural Information Processing Systems (NeurIPS), 2024
 
 </div>
 </div>
@@ -83,7 +83,7 @@ NeurIPS, 2024
 
 Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
 
-NeurIPS, 2024
+Neural Information Processing Systems (NeurIPS), 2024
 
 </div>
 </div>
@@ -97,7 +97,7 @@ NeurIPS, 2024
 
 **Zhichao Hou***, Liming Wu*, , Jirui Yuan, Yu Rong, Wenbing Huang
 
-NeurIPS, 2023
+Neural Information Processing Systems (NeurIPS), 2023
 
 </div>
 </div>
@@ -112,6 +112,8 @@ NeurIPS, 2023
 [HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803)
 
 **Zhichao Hou**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
+
+Preprint, 2024
 
 </div>
 </div>
@@ -155,6 +157,8 @@ Briefings in Bioinformatics, 2024
 
 **Zhichao Hou**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
 
+Preprint, 2023
+
 </div>
 </div>
 
@@ -166,6 +170,8 @@ Briefings in Bioinformatics, 2024
 [Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
 
 Wendi Yu, **Zhichao Hou**, Xiaorui Liu
+
+Preprint, 2023
 
 </div>
 </div>
