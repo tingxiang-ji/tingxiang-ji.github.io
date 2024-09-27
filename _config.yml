@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhichao Hou (侯智超)"
+title                    : "Zhichao Hou"
 description              : " PhD in NCSU, Focusing on Adversarial Robustness.  "
 repository               : "chris-hzc/chris-hzc.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhichao Hou (侯智超)"
   avatar           : "images/chris.jpg"
-  bio              : "NCSU"
+  bio              : "侯智超"
   location         : "Raleigh, NC"
   employer         :
   pubmed           : 
