@@ -47,6 +47,79 @@ I am a big fan of basketball 🏀 and I idolize Chris Paul and Allen Iverson. Ou
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProTransformer: Robustify Transformers via Plug-and-Play Paradigm]()
+
+**Zhichao Hou**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
+
+NeurIPS, 2024
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Graph Neural Networks via Unbiased Aggregation]()
+
+**Zhichao Hou**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
+
+NeurIPS, 2024
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing]()
+
+Weizhi Gao, **Zhichao Hou**, Han Xu, Xiaorui Liu
+
+NeurIPS, 2024
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Equivariant spatio-temporal attentive graph networks to simulate physical dynamics](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html)
+
+**Zhichao Hou***, Liming Wu*, , Jirui Yuan, Yu Rong, Wenbing Huang
+
+NeurIPS, 2023
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803)
+
+**Zhichao Hou**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
