@@ -32,7 +32,7 @@ I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our
 
 
 # 🔥 News
-
+- *2024.10*: &nbsp;📖 New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a>
 - *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
 - *2024.07*: &nbsp;🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
 - *2024.05*: I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at NYC.
@@ -74,6 +74,21 @@ I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robustness Reprogramming for Representation Learning](https://arxiv.org/abs/2410.04577)
+
+**<u>Zhichao Hou</u>**, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu
+
+*Preprint, 2024*
+
+</div>
+</div>
+
 
 
 
