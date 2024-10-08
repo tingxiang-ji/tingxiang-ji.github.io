@@ -77,7 +77,7 @@ I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robustness Reprogramming for Representation Learning](https://arxiv.org/abs/2410.04577)
