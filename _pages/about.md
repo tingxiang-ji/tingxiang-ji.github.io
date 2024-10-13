@@ -207,8 +207,9 @@ Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 - *2020.09 - 2023.06*, MS in Mathematics, Academy of Mathematics and Systems Science, Beijing
 - *2016.09 - 2020.06*, BS in Mathematics, Beijing Normal University, Beijing
 
-# 💬 Invited Talks
-- *2024.03*, Robust Transformer, MSU
+# 💬 Invited Talks and Tutorials
+- *2024.10*, Tutorial: "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier", DSAA 2024, San Diego
+- *2024.03*, Robustify Transformers via Plug-and-Play Paradigm, MSU
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
