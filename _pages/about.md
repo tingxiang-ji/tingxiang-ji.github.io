@@ -35,6 +35,7 @@ I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our
 - *2024.10*: &nbsp;💻 I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about "Adversarial Robustness in Graph Neural Networks". 
 - *2024.10*: &nbsp;📖 New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a>
 - *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
+- *2024.08*: &nbsp;📖 I will serve as a reviwer of ICLR 2025.
 - *2024.07*: &nbsp;🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
 - *2024.05*: &nbsp;💻 I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at NYC.
 - *2024.05*: &nbsp;🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024. See you in San Diego!
