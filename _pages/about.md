@@ -27,7 +27,7 @@ I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our
 
 # 💗 Research Interests
 -  Adversarial Robustness on Vision, Language, and Graphs
--  Graph Neural Networks: Robust GNNs, Spatial-Temporal GNNs, Geometric GNNs
+-  Graph Neural Networks
 -  AI for Science
 
 
@@ -199,8 +199,8 @@ Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 
 
 # 🎖 Honors and Awards
-- *2018.12* Champion of Mingyue Cup Basketball Match of BNU (FMVP)
-- *2017/2018/2019* First-class scholarship of Beijing Normal University
+- *2018.12* 🏀 Champion of Mingyue Cup Basketball Match of BNU (FMVP)
+- *2017/2018/2019* 🏆 First-class scholarship of Beijing Normal University
 
 # 📖 Educations
 - *2023.06 - (now)*, PhD in Computer Science, North Carolina State University, Raleigh 
