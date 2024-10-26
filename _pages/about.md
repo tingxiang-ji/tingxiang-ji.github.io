@@ -17,18 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
+📝 I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
 I received my B.S. degree in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
 
-I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>.
+💻 I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>.
 
 
-I am a big fan of basketball🏀 and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
+🏀 I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
 
 # 💗 Research Interests
 -  Adversarial Robustness on Vision, Language, and Graphs
 -  Graph Neural Networks
 -  AI for Science
+
+As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
+
+- **<u>Graph</u>**: <a href="https://arxiv.org/abs/2311.14934">Robust Graph Neural Networks via Unbiased Aggregation</a>
+- **<u>Language</u>**: <a href="">ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
+- **<u>Vision</u>**: <a href="https://arxiv.org/abs/2410.04577">Robustness Reprogramming for Representation Learning</a>
+
 
 
 # 🔥 News
