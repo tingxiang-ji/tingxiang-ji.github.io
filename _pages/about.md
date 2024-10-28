@@ -32,6 +32,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉 One paper is accepted by IEEE BigData 2024.
 - *2024.10*: &nbsp;💻 I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about "Adversarial Robustness in Graph Neural Networks". 
 - *2024.10*: &nbsp;📖 New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a>
 - *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
@@ -52,9 +53,9 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
 
-- Graph: <a href="https://arxiv.org/abs/2311.14934">Robust Graph Neural Networks via Unbiased Aggregation</a>
-- Language: <a href="">ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
-- Vision: <a href="https://arxiv.org/abs/2410.04577">Robustness Reprogramming for Representation Learning</a>
+- Graph: <a href="https://arxiv.org/abs/2311.14934">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
+- Language: <a href="">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
+- Vision: <a href="https://arxiv.org/abs/2410.04577">**[Preprint 2024]** Robustness Reprogramming for Representation Learning</a>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
@@ -127,7 +128,17 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
+
+Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
+
+*IEEE International Conference on Big Data (IEEE BigData), 2024*
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
@@ -141,6 +152,8 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 
 </div>
 </div>
+
+
 
 
 
@@ -183,23 +196,9 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 
 *Preprint, 2023*
 
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Automated Polynomial Filter Learning for Graph Neural Networks](https://arxiv.org/pdf/2307.07956)
-
-Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
-
-*Preprint, 2023*
 
 </div>
 </div>
-
 
 
 
