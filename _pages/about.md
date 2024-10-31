@@ -54,14 +54,14 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
 
 - Graph: <a href="https://arxiv.org/abs/2311.14934">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
-- Language: <a href="">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
+- Language: <a href="https://arxiv.org/abs/2410.23182">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
 - Vision: <a href="https://arxiv.org/abs/2410.04577">**[Preprint 2024]** Robustness Reprogramming for Representation Learning</a>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
-[ProTransformer: Robustify Transformers via Plug-and-Play Paradigm]()
+[ProTransformer: Robustify Transformers via Plug-and-Play Paradigm](https://arxiv.org/abs/2410.23182)
 
 **<u>Zhichao Hou</u>**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
 
