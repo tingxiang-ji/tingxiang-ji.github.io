@@ -128,7 +128,7 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs](https://arxiv.org/abs/2411.03522)
