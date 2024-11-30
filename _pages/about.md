@@ -356,10 +356,10 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
-- *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. Mentor: <a href="https://scholar.google.com/citations?user=UtE9noAAAAAJ&hl=en">Ali Torkamani</a>
-- *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2ZkUaYcAAAAJ">Xiaochi Wei</a>
-- *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing. Mentor: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=31&ruccode=ADIIMVRnBzFXMFdnVTAIOw%3D%3D&ln=en">Wenbing Huang</a>
-- *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?user=n-C-Ii0AAAAJ&hl=en">Ge Wang</a>
+- <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. Mentor: <a href="https://scholar.google.com/citations?user=UtE9noAAAAAJ&hl=en">Ali Torkamani</a>
+- <img src="images/baidu_logo.png" alt="Baidu Logo" width="20" height="20"> *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2ZkUaYcAAAAJ">Xiaochi Wei</a>
+- <img src="images/air_logo.png" alt="AIR Logo" width="20" height="20"> *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing. Mentor: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=31&ruccode=ADIIMVRnBzFXMFdnVTAIOw%3D%3D&ln=en">Wenbing Huang</a>
+- <img src="images/aiquant_logo.png" alt="AiQuant Logo" width="20" height="20"> *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?user=n-C-Ii0AAAAJ&hl=en">Ge Wang</a>
 
 # 🏀 Basketball is My Life
 <img src="images/2017_MINGYUE.jpg" alt="2017" width="300" height="200">
