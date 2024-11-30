@@ -50,7 +50,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 - *2022.03*: &nbsp;💻 I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
 
