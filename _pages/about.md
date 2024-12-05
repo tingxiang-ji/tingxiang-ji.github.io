@@ -346,8 +346,8 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 
 
 # 🎖 Honors and Awards
-- *2018.12* 🏀 Champion of Mingyue Cup Basketball Match of BNU (FMVP)
-- *2017/2018/2019* 🏆 First-class scholarship of Beijing Normal University
+- 🏀 *2018.12* Champion of Mingyue Cup Basketball Match of BNU (FMVP)
+- 🏆 *2017/2018/2019* First-class scholarship of Beijing Normal University
 
 # 📖 Educations
 - <img src="images/ncsu_logo.png" alt="NCSU Logo" width="20" height="20"> *2023.06 - (now)*, PhD in Computer Science, North Carolina State University, Raleigh 
@@ -365,7 +365,7 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 - <img src="images/air_logo.png" alt="AIR Logo" width="20" height="20"> *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing. Mentor: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=31&ruccode=ADIIMVRnBzFXMFdnVTAIOw%3D%3D&ln=en">Wenbing Huang</a>
 - <img src="images/aiquant_logo.png" alt="AiQuant Logo" width="20" height="20"> *2021.08 - 2021.10*,  <a href="https://www.ai-quants.com/#/">AiQuant</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?user=n-C-Ii0AAAAJ&hl=en">Ge Wang</a>
 
-# 🏀 Basketball is My Life
+# 🏀 Basketball is Life
 <img src="images/2017_MINGYUE.jpg" alt="2017" width="300" height="200">
 <img src="images/2018_MINGYUE.jpg" alt="2018" width="300" height="200">
 <img src="images/2018_MINGYUE2.jpg" alt="2018" width="300" height="200">
