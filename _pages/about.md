@@ -75,6 +75,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2410.23182.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
 </div>
 
 </div>
@@ -99,6 +100,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2311.14934v2.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
     <a href="https://github.com/chris-hzc/RUNG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="images/rung_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
 </div>
 
 </div>
@@ -123,6 +125,8 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
     <a href="https://github.com/chris-hzc/NRPM" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+
+
 </div>
 
 </div>
