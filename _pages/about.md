@@ -32,6 +32,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 
 # 🔥 News
+- *2024.12*: &nbsp;📖 New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a>
 - *2024.11*: &nbsp;📖 New preprint: Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs.  <a href="https://arxiv.org/abs/2411.03522">https://arxiv.org/abs/2411.03522</a>
 - *2024.10*: &nbsp;🎉 One paper is accepted by IEEE BigData 2024.
 - *2024.10*: &nbsp;💻 I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>. 
