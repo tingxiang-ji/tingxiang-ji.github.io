@@ -182,6 +182,31 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; color: inherit;">
+        Post-hoc Interpretability Illumination for Scientific Interaction Discovery
+    </a>
+</span>
+
+Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
+
+*Preprint, 2024*
+
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
