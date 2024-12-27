@@ -410,3 +410,23 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+
+.news-container {
+  width: 100%;
+  max-height: 350px; /* Set the desired height */
+  overflow-y: auto; /* Enable vertical scrolling */
+  background-color: #f2f9f9; /* Optional: Set background color */
+  padding: 10px; /* Optional: Add padding */
+  border: 1px solid #ccc; /* Optional: Add border */
+}
+
+.news-container ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+}
+
+.news-container li {
+  margin-bottom: 10px; /* Add space between items */
+}

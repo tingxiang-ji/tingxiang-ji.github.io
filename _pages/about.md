@@ -31,24 +31,29 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 -  AI for Science
 
 
+
 # 🔥 News
-- *2024.12*: &nbsp;📖 New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a>
-- *2024.11*: &nbsp;📖 New preprint: Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs.  <a href="https://arxiv.org/abs/2411.03522">https://arxiv.org/abs/2411.03522</a>
-- *2024.10*: &nbsp;🎉 One paper is accepted by IEEE BigData 2024.
-- *2024.10*: &nbsp;💻 I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>. 
-- *2024.10*: &nbsp;📖 New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a>
-- *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024. See you in Vancouver!
-- *2024.08*: &nbsp;📖 I will serve as a reviwer of ICLR 2025.
-- *2024.07*: &nbsp;🎉 I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.
-- *2024.05*: &nbsp;💻 I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at NYC.
-- *2024.05*: &nbsp;🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024. See you in San Diego!
-- *2024.05*: &nbsp;🎉 I receive the Summer Graduate Merit Awards.
-- *2024.03*: &nbsp;🎉 One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
-- *2024.02*: &nbsp;🎉 One paper is accepted by Briefings in Bioinformatics.
-- *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2023. See you in New Orleans!
-- *2023.09*: &nbsp;🎉 One paper is accepted by BMC Bioinformatics.
-- *2023.06*: &nbsp;💻 I join Big Search team in <a href="https://ir.baidu.com/">Baidu, Inc.</a> as a research intern at Beijing.
-- *2022.03*: &nbsp;💻 I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.
+<div class="news-container">
+  <ul>
+    <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
+    <li> 📖 2024.11: New preprint: Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs.  <a href="https://arxiv.org/abs/2411.03522">https://arxiv.org/abs/2411.03522</a></li>
+    <li> 🎉 2024.10: One paper is accepted by IEEE BigData 2024.</li>
+    <li> 💻 2024.10: I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>.</li>
+    <li> 📖 2024.10: New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a></li>
+    <li> 🎉 2024.09: Three papers are accepted by NeurIPS 2024. See you in Vancouver!</li>
+    <li> 📖 2024.08: I will serve as a reviwer of ICLR 2025.</li>
+    <li> 🎉 2024.07: I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.</li>
+    <li> 💻 2024.05: I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at NYC.</li>
+    <li> 🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024. See you in San Diego!</li>
+    <li> 🎉 2024.05: I receive the Summer Graduate Merit Awards.</li>
+    <li> 🎉 2024.03: One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.</li>
+    <li> 🎉 2024.02: One paper is accepted by Briefings in Bioinformatics.</li>
+    <li> 🎉 2023.09: One paper is accepted by NeurIPS 2023. See you in New Orleans!</li>
+    <li> 🎉 2023.09: One paper is accepted by BMC Bioinformatics.</li>
+    <li> 💻 2023.06: I join Big Search team in <a href="https://ir.baidu.com/">Baidu, Inc.</a> as a research intern at Beijing.</li>
+    <li> 💻 2022.03: I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.</li>
+  </ul>
+</div>
 
 
 # 📝 Publications 
