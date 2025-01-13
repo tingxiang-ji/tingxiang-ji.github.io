@@ -17,16 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
-I received my B.S. degree in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
-
-I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>.
-
-
-I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
+I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://www.csc.ncsu.edu/people/jliu96"> Prof. Jianqing Liu</a>. Prior to that, I got my M.S. and B.S. degree in Computer Science and Technology at <a href="https://www.njtech.edu.cn/">Nanjing Tech University</a>, advised by <a href="https://cise.njtech.edu.cn/info/1015/6153.htm">Xili Wan</a>.
 
 # 💗 Research Interests
--  Adversarial Robustness on Vision, Language, and Graphs
+-  Quantum Communications and Networks
 -  Graph Neural Networks
 -  AI for Science
 
@@ -35,8 +29,9 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
-    <li> 📖 2024.11: New preprint: Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs.  <a href="https://arxiv.org/abs/2411.03522">https://arxiv.org/abs/2411.03522</a></li>
+    <li> 📖 2024.10: New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a></li>
+    <li> 🎉 2024.12: One paper is accepted by Progress in Quantum Electronics:  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545">The road to quantum internet: Progress in quantum network testbeds and major demonstrations.</a></li>
+    <li> 🎉 2024.07: One paper is accepted by 2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI):  <a href="https://ieeexplore.ieee.org/abstract/document/10682735">Low-power and Computing-free Privacy Design for IoT Systems.</a></li>
     <li> 🎉 2024.10: One paper is accepted by IEEE BigData 2024.</li>
     <li> 💻 2024.10: I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>.</li>
     <li> 📖 2024.10: New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a></li>

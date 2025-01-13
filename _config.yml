@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhichao Hou (侯智超)"
+title                    : "Tingxiang Ji (吉婷湘)"
 description              : " PhD in NCSU"
-repository               : "chris-hzc/chris-hzc.github.io"
+repository               : "tingxiang-ji/tingxiang-ji.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhichao Hou"
+  name             : "Tingxiang Ji"
   avatar           : "images/chris.jpg"
-  bio              : "zhou4@ncsu.edu"
+  bio              : "tji2@ncsu.edu"
   location         : "Raleigh, NC"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rraC4ZMAAAAJ&hl=en&authuser=2"
-  email            : "zhou4@ncsu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=iMTZkv4AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "tji2@ncsu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chris-hzc"
+  github           : "tingxiang-ji"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhichao-hou-b022931a4/"
+  linkedin         : "tingxiang-ji-2b4a522b4/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
