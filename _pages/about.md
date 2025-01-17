@@ -177,7 +177,7 @@ Yaping Wu, Xili Wan, Xinjie Guan, **<u>Tingxiang Ji</u>**, Feng Ye
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISC2 2021</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISC2 2021</div><img src='images/ISC2_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
