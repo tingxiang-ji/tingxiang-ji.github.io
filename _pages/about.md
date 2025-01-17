@@ -39,11 +39,11 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/pqe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/PQE_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2410.23182" style="text-decoration: none; color: inherit;">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545" style="text-decoration: none; color: inherit;">
         The road to quantum internet: Progress in quantum network testbeds and major demonstrations
     </a>
 </span>
