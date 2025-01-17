@@ -249,5 +249,5 @@ Wentian Zhao, Yanyun Gao, **<u>Tingxiang Ji</u>**, Xili Wan, Feng Ye, Guangwei B
 
 # 📖 Educations
 - <img src="images/ncsu_logo.png" alt="NCSU Logo" width="20" height="20"> *2023.06 - (now)*, PhD in Computer Science, North Carolina State University, Raleigh 
-- <img src="images/amss_logo.png" alt="AMSS Logo" width="20" height="20"> *2020.09 - 2023.06*, MS in Computer Science and Technology, Nanjing Tech University, Nanjing
-- <img src="images/bnu_logo.png" alt="BNU Logo" width="20" height="20"> *2016.09 - 2020.06*, BS in Computer Science and Technology, Nanjing Tech University, Nanjing
+- <img src="images/Nanjing_Tech_University_logo.png" alt="AMSS Logo" width="20" height="20"> *2020.09 - 2023.06*, MS in Computer Science and Technology, Nanjing Tech University, Nanjing
+- <img src="images/Nanjing_Tech_University_logo.png" alt="BNU Logo" width="20" height="20"> *2016.09 - 2020.06*, BS in Computer Science and Technology, Nanjing Tech University, Nanjing
