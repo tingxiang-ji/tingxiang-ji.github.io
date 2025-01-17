@@ -29,36 +29,15 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 📖 2024.10: New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a></li>
     <li> 🎉 2024.12: One paper is accepted by Progress in Quantum Electronics:  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545">The road to quantum internet: Progress in quantum network testbeds and major demonstrations.</a></li>
+    <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 🎉 2024.07: One paper is accepted by 2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI):  <a href="https://ieeexplore.ieee.org/abstract/document/10682735">Low-power and Computing-free Privacy Design for IoT Systems.</a></li>
-    <li> 🎉 2024.10: One paper is accepted by IEEE BigData 2024.</li>
-    <li> 💻 2024.10: I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>.</li>
-    <li> 📖 2024.10: New preprint: Robustness Reprogramming for Representation Learning.  <a href="https://arxiv.org/abs/2410.04577">https://arxiv.org/abs/2410.04577</a></li>
-    <li> 🎉 2024.09: Three papers are accepted by NeurIPS 2024. See you in Vancouver!</li>
-    <li> 📖 2024.08: I will serve as a reviwer of ICLR 2025.</li>
-    <li> 🎉 2024.07: I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.</li>
-    <li> 💻 2024.05: I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at NYC.</li>
-    <li> 🎉 Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024. See you in San Diego!</li>
-    <li> 🎉 2024.05: I receive the Summer Graduate Merit Awards.</li>
-    <li> 🎉 2024.03: One paper is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.</li>
-    <li> 🎉 2024.02: One paper is accepted by Briefings in Bioinformatics.</li>
-    <li> 🎉 2023.09: One paper is accepted by NeurIPS 2023. See you in New Orleans!</li>
-    <li> 🎉 2023.09: One paper is accepted by BMC Bioinformatics.</li>
-    <li> 💻 2023.06: I join Big Search team in <a href="https://ir.baidu.com/">Baidu, Inc.</a> as a research intern at Beijing.</li>
-    <li> 💻 2022.03: I join  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.</li>
+    <li> 📖 2024.04: New preprint: Distributing Arbitrary Quantum Cluster States by Graph Transformation.  <a href="https://arxiv.org/abs/2404.05537">https://arxiv.org/abs/2404.05537</a></li>
   </ul>
 </div>
 
 
 # 📝 Publications 
-
-As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
-
-- Graph: <a href="https://arxiv.org/abs/2311.14934v2">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
-- Language: <a href="https://arxiv.org/abs/2410.23182">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
-- Vision: <a href="https://arxiv.org/abs/2410.04577">**[Preprint 2024]** Robustness Reprogramming for Representation Learning</a>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
