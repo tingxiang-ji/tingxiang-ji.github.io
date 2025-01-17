@@ -61,7 +61,7 @@ Jianqing Liu, Thinh Le, **<u>Tingxiang Ji</u>**, Ruozhou Yu, Demitry Farfurnik, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/graph_state.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size: 1.2em;">
