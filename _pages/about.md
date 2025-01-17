@@ -99,10 +99,7 @@ Hui Sun, Kyle Mooney, Mario Renteria-Pinon, **<u>Tingxiang Ji</u>**, Hritom Das,
 *IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/NRPM" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-
-
+    <a href="https://ieeexplore.ieee.org/abstract/document/10682735" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
@@ -111,23 +108,22 @@ Hui Sun, Kyle Mooney, Mario Renteria-Pinon, **<u>Tingxiang Ji</u>**, Hritom Das,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToC 2023</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; color: inherit;">
-        Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
+    <a href="https://ieeexplore.ieee.org/abstract/document/10167814" style="text-decoration: none; color: inherit;">
+        Towards optimal application offloading in heterogeneous edge-cloud computing
     </a>
 </span>
 
-Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
+**<u>Tingxiang Ji</u>**, Xili Wan, Xinjie Guan, Aichun Zhu, Feng Ye
 
-*Neural Information Processing Systems (NeurIPS), 2024*
+*IEEE Transactions on Computers, 2023*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10167814" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
@@ -135,46 +131,45 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 <span style="font-size: 1.2em;">
     <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; color: inherit;">
-        Equivariant spatio-temporal attentive graph networks to simulate physical dynamics
+        Optimal DNN Inference Delay Minimization for Chain-Structured Roadside Edge Networks
     </a>
 </span>
 
-**<u>Zhichao Hou</u>**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
+Xili Wan, **<u>Tingxiang Ji</u>**, Xinjie Guan, Aichun Zhu, Feng Ye
 
-*Neural Information Processing Systems (NeurIPS), 2023*
+*IEEE Transactions on Vehicular Technology, 2023*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/GLAD-RUC/ESTAG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
 </div>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNCA 2023</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; color: inherit;">
-        Post-hoc Interpretability Illumination for Scientific Interaction Discovery
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1084804523000115" style="text-decoration: none; color: inherit;">
+        PGTCN: A novel password-guessing model based on temporal convolution network
     </a>
 </span>
 
-Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
+Yaping Wu, Xili Wan, Xinjie Guan, **<u>Tingxiang Ji</u>**, Feng Ye
 
-*Preprint, 2024*
+*Journal of Network and Computer Applications, 2023*
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1084804523000115" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
@@ -182,167 +177,75 @@ Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISC2 2021</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2411.03522" style="text-decoration: none; color: inherit;">
-        Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs
+    <a href="https://ieeexplore.ieee.org/abstract/document/9562873" style="text-decoration: none; color: inherit;">
+        Maximal Network Lifetime Scheduling Algorithms for Roadside Sensor Networks
     </a>
 </span>
 
-Wei Wang, **<u>Zhichao Hou</u>**, Xiaorui Liu, Xinxia Peng
+Xili Wan, **<u>Tingxiang Ji</u>**, Xinjie Guan, Feng Ye, Yifeng Li
 
-*Preprint, 2024*
+*IEEE International Smart Cities Conference (ISC2), 2021*
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2411.03522" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/llm4bio" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9562873" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Communications Letters 2021</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2307.07956" style="text-decoration: none; color: inherit;">
-        Automated Polynomial Filter Learning for Graph Neural Networks
+    <a href="https://ieeexplore.ieee.org/abstract/document/9508388" style="text-decoration: none; color: inherit;">
+        Optimal task assignment for integrated cloud and edge networks with tree topology
     </a>
 </span>
 
 
-Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
+Xinjie Guan, **<u>Tingxiang Ji</u>**, Xili Wan, Yifeng Li, Feng Ye
 
-*IEEE International Conference on Big Data (IEEE BigData), 2024*
+*IEEE Communications Letters, 2021*
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2307.07956" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/autopoly" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9508388" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
-
-
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2019</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803) -->
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2408.16803" style="text-decoration: none; color: inherit;">
-        HLogformer: A Hierarchical Transformer for Representing Log Data
+    <a href="https://ieeexplore.ieee.org/abstract/document/8801840" style="text-decoration: none; color: inherit;">
+        Deep temporal convolutional networks for short-term traffic flow forecasting
     </a>
 </span>
 
 
-**<u>Zhichao Hou</u>**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
+Wentian Zhao, Yanyun Gao, **<u>Tingxiang Ji</u>**, Xili Wan, Feng Ye, Guangwei Bai
 
-*Preprint, 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2408.16803" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/hlogformer" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/pathexpsurv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2409.15588" style="text-decoration: none; color: inherit;">
-        PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
-
-*BMC Bioinformatics, 2023*
-
+*IEEE Access, 2019*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://link.springer.com/article/10.1186/s12859-023-05535-2" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/Wu-Lab/PathExpSurv" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8801840" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2024</div><img src='images/SCARP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis](https://academic.oup.com/bib/article/25/2/bbae093/7630481) -->
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" style="text-decoration: none; color: inherit;">
-        Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis
-    </a>
-</span>
-
-Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
-
-*Briefings in Bioinformatics, 2024*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/Wu-Lab/SCARP" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bbrw.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Can Directed Graph Neural Networks be Adversarially Robust?](https://arxiv.org/pdf/2306.02002) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2306.02002" style="text-decoration: none; color: inherit;">
-        Can Directed Graph Neural Networks be Adversarially Robust?
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
-
-*Preprint, 2023*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2306.02002" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/BBRW" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
 
 
 
