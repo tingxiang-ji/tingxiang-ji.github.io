@@ -108,7 +108,7 @@ Hui Sun, Kyle Mooney, Mario Renteria-Pinon, **<u>Tingxiang Ji</u>**, Hritom Das,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToC 2023</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ToC 2023</div><img src='images/ToC_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
