@@ -39,23 +39,21 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
     <a href="https://arxiv.org/abs/2410.23182" style="text-decoration: none; color: inherit;">
-        ProTransformer: Robustify Transformers via Plug-and-Play Paradigm
+        The road to quantum internet: Progress in quantum network testbeds and major demonstrations
     </a>
 </span>
 
-**<u>Zhichao Hou</u>**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
+Jianqing Liu, Thinh Le, **<u>Tingxiang Ji</u>**, Ruozhou Yu, Demitry Farfurnik, Greg Bryd, Daniel Lidar
 
-*Neural Information Processing Systems (NeurIPS), 2024*
+*Progress in Quantum Electronics (PQE), 2024*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2410.23182.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
