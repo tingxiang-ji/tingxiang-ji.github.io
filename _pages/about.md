@@ -39,7 +39,7 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/pqe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
@@ -61,44 +61,42 @@ Jianqing Liu, Thinh Le, **<u>Tingxiang Ji</u>**, Ruozhou Yu, Demitry Farfurnik, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2311.14934v2" style="text-decoration: none; color: inherit;">
-        Robust Graph Neural Networks via Unbiased Aggregation
+    <a href="https://arxiv.org/abs/2404.05537" style="text-decoration: none; color: inherit;">
+        Distributing Arbitrary Quantum Cluster States by Graph Transformation.
     </a>
 </span>
 
 
-**<u>Zhichao Hou</u>**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
-
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2311.14934v2.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/RUNG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/rung_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
-</div>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2410.04577" style="text-decoration: none; color: inherit;">
-        Robustness Reprogramming for Representation Learning
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu
+**<u>Tingxiang Ji</u>**, Jianqing Liu, Zheshen Zhang
 
 *Preprint, 2024*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2404.05537" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISVLSI 2024</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10682735" style="text-decoration: none; color: inherit;">
+        Low-power and Computing-free Privacy Design for IoT Systems
+    </a>
+</span>
+
+Hui Sun, Kyle Mooney, Mario Renteria-Pinon, **<u>Tingxiang Ji</u>**, Hritom Das, Na Gong, Jianqing Liu
+
+*IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
