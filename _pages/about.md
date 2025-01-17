@@ -247,13 +247,7 @@ Wentian Zhao, Yanyun Gao, **<u>Tingxiang Ji</u>**, Xili Wan, Feng Ye, Guangwei B
 </div>
 </div>
 
-
-
-# 🎖 Honors and Awards
-- 🏀 *2018.12* Champion of Mingyue Cup Basketball Match of BNU (FMVP)
-- 🏆 *2017/2018/2019* First-class scholarship of Beijing Normal University
-
 # 📖 Educations
 - <img src="images/ncsu_logo.png" alt="NCSU Logo" width="20" height="20"> *2023.06 - (now)*, PhD in Computer Science, North Carolina State University, Raleigh 
-- <img src="images/amss_logo.png" alt="AMSS Logo" width="20" height="20"> *2020.09 - 2023.06*, MS in Mathematics, Academy of Mathematics and Systems Science, Beijing
-- <img src="images/bnu_logo.png" alt="BNU Logo" width="20" height="20"> *2016.09 - 2020.06*, BS in Mathematics, Beijing Normal University, Beijing
+- <img src="images/amss_logo.png" alt="AMSS Logo" width="20" height="20"> *2020.09 - 2023.06*, MS in Computer Science and Technology, Nanjing Tech University, Nanjing
+- <img src="images/bnu_logo.png" alt="BNU Logo" width="20" height="20"> *2016.09 - 2020.06*, BS in Computer Science and Technology, Nanjing Tech University, Nanjing
