@@ -153,7 +153,7 @@ Xili Wan, **<u>Tingxiang Ji</u>**, Xinjie Guan, Aichun Zhu, Feng Ye
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNCA 2023</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNCA 2023</div><img src='images/PGTCN_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
