@@ -136,7 +136,7 @@ Hui Sun, Kyle Mooney, Mario Renteria-Pinon, **<u>Tingxiang Ji</u>**, Hritom Das,
 
 
 <span style="font-size: 1.2em;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; color: inherit;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10164247" style="text-decoration: none; color: inherit;">
         Optimal DNN Inference Delay Minimization for Chain-Structured Roadside Edge Networks
     </a>
 </span>
@@ -146,7 +146,7 @@ Xili Wan, **<u>Tingxiang Ji</u>**, Xinjie Guan, Aichun Zhu, Feng Ye
 *IEEE Transactions on Vehicular Technology, 2023*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10164247" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
