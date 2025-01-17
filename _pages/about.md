@@ -84,7 +84,7 @@ Jianqing Liu, Thinh Le, **<u>Tingxiang Ji</u>**, Ruozhou Yu, Demitry Farfurnik, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISVLSI 2024</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISVLSI 2024</div><img src='images/ISVLSI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
