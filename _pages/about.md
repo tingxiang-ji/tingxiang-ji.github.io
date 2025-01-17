@@ -39,7 +39,7 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/pqe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
