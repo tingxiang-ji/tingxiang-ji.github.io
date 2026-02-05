@@ -29,6 +29,8 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 📖 2025.12: New preprint: Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces.  <a href="https://arxiv.org/abs/2512.17199">https://arxiv.org/abs/2512.17199</a></li>
+    <li> 🎉 2025.03: One paper is accepted by ICLR 2025 Workshop XAI4Science:  Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 🎉 2024.12: One paper is accepted by Progress in Quantum Electronics:  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545">The road to quantum internet: Progress in quantum network testbeds and major demonstrations.</a></li>
     <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 🎉 2024.07: One paper is accepted by 2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI):  <a href="https://ieeexplore.ieee.org/abstract/document/10682735">Low-power and Computing-free Privacy Design for IoT Systems.</a></li>
@@ -38,6 +40,47 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/quantum_enhanced_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2512.17199" style="text-decoration: none; color: inherit;">
+        Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces
+    </a>
+</span>
+
+Shiqian Guo, **<u>Tingxiang Ji</u>**, Jianqing Liu
+
+*Preprint, 2025*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2512.17199" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Workshop XAI4Science</div><img src='images/post_hoc_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; color: inherit;">
+        Post-hoc Interpretability Illumination for Scientific Interaction Discovery
+    </a>
+</span>
+
+Ling Zhang, Zhichao Hou, **<u>Tingxiang Ji</u>**, Yuanyuan Xu, Runze Li
+
+*ICLR Workshop XAI4Science, 2025*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progress in Quantum Electronics</div><img src='images/PQE_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
