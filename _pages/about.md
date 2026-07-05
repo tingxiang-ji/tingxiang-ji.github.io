@@ -42,6 +42,26 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/QCE_graph_motifs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2606.02880" style="text-decoration: none; color: inherit;">
+        Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs
+    </a>
+</span>
+
+**<u>Tingxiang Ji</u>**, Hansika Weerasena, Demitry Farfurnik, Jianqing Liu
+
+*IEEE JSAC, 2026*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2606.02880" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/quantum_enhanced_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
