@@ -29,7 +29,8 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 📖 2026.04: One paper is accepted by IEEE Journal on Selected Areas in Communications.  <a href="https://ieeexplore.ieee.org/abstract/document/11494776">https://ieeexplore.ieee.org/abstract/document/11494776</a></li>
+    <li> 📖 2026.06: New preprint: Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs. <a href="https://arxiv.org/abs/2606.02880">https://arxiv.org/abs/2606.02880</a></li>
+    <li> 🎉 2026.04: One paper is accepted by IEEE Journal on Selected Areas in Communications. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">https://ieeexplore.ieee.org/abstract/document/11494776</a></li>
     <li> 📖 2025.12: New preprint: Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces.  <a href="https://arxiv.org/abs/2512.17199">https://arxiv.org/abs/2512.17199</a></li>
     <li> 🎉 2025.03: One paper is accepted by ICLR 2025 Workshop XAI4Science:  Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 🎉 2024.12: One paper is accepted by Progress in Quantum Electronics:  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545">The road to quantum internet: Progress in quantum network testbeds and major demonstrations.</a></li>
@@ -45,17 +46,17 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2512.17199" style="text-decoration: none; color: inherit;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/11494776" style="text-decoration: none; color: inherit;">
         Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces
     </a>
 </span>
 
 Shiqian Guo, **<u>Tingxiang Ji</u>**, Jianqing Liu
 
-*Preprint, 2025*
+*IEEE JSAC, 2026*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2512.17199" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11494776" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 </div>
 
 </div>
