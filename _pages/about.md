@@ -29,10 +29,11 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 📖 2026.06: New preprint: Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs. <a href="https://arxiv.org/abs/2606.02880">https://arxiv.org/abs/2606.02880</a></li>
-    <li> 🎉 2026.04: One paper is accepted by IEEE Journal on Selected Areas in Communications. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">https://ieeexplore.ieee.org/abstract/document/11494776</a></li>
+    <li> 🎉 2026.07: One paper is accepted by IEEE International Conference on Quantum Computing and Engineering -- QCE26. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs.</a></li>
+    <li> 📖 2026.05: New preprint: Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs. <a href="https://arxiv.org/abs/2606.02880">https://arxiv.org/abs/2606.02880</a></li>
+    <li> 🎉 2026.04: One paper is accepted by IEEE Journal on Selected Areas in Communications. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces.</a></li>
     <li> 📖 2025.12: New preprint: Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces.  <a href="https://arxiv.org/abs/2512.17199">https://arxiv.org/abs/2512.17199</a></li>
-    <li> 🎉 2025.03: One paper is accepted by ICLR 2025 Workshop XAI4Science:  Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
+    <li> 🎉 2025.03: One paper is accepted by ICLR 2025 Workshop XAI4Science: <a href="https://arxiv.org/abs/2412.16252">Post-hoc Interpretability Illumination for Scientific Interaction Discovery</a></li>
     <li> 🎉 2024.12: One paper is accepted by Progress in Quantum Electronics:  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0079672724000545">The road to quantum internet: Progress in quantum network testbeds and major demonstrations.</a></li>
     <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 🎉 2024.07: One paper is accepted by 2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI):  <a href="https://ieeexplore.ieee.org/abstract/document/10682735">Low-power and Computing-free Privacy Design for IoT Systems.</a></li>
