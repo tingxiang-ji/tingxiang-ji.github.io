@@ -54,7 +54,7 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 **<u>Tingxiang Ji</u>**, Hansika Weerasena, Demitry Farfurnik, Jianqing Liu
 
-*Preprint, 2026*
+*IEEE QCE, 2026*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2606.02880" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
