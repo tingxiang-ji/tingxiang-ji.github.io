@@ -29,6 +29,7 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 📖 2026.08: New preprint: CENTILE: A Telemetry Foundation Model Evaluated by the Decisions It Drives  <a href="https://arxiv.org/abs/2608.01725">https://arxiv.org/abs/2608.01725</a></li>
     <li> 🎉 2026.07: One paper is accepted by IEEE International Conference on Quantum Computing and Engineering -- QCE26. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs.</a></li>
     <li> 📖 2026.05: New preprint: Towards Efficient Synthesis of Quantum Graph States by Fusing Graph Motifs. <a href="https://arxiv.org/abs/2606.02880">https://arxiv.org/abs/2606.02880</a></li>
     <li> 🎉 2026.04: One paper is accepted by IEEE Journal on Selected Areas in Communications. <a href="https://ieeexplore.ieee.org/abstract/document/11494776">Quantum-enhanced Information Retrieval from Reflective Intelligent Surfaces.</a></li>
@@ -43,6 +44,27 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/centile_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2608.01725" style="text-decoration: none; color: inherit;">
+        CENTILE: A Telemetry Foundation Model Evaluated by the Decisions It Drives
+    </a>
+</span>
+
+Zifan Zhang, Zhichao Hou, **<u>Tingxiang Ji</u>**, Yuchen Liu
+
+*IEEE QCE, 2026*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2606.02880" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/QCE_graph_motifs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
@@ -54,7 +76,7 @@ I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu
 
 **<u>Tingxiang Ji</u>**, Hansika Weerasena, Demitry Farfurnik, Jianqing Liu
 
-*IEEE QCE, 2026*
+*Preprint, 2026*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/abs/2606.02880" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
