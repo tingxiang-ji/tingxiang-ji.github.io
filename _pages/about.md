@@ -20,11 +20,9 @@ redirect_from:
 I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://www.csc.ncsu.edu/people/jliu96"> Prof. Jianqing Liu</a>. Prior to that, I got my M.S. and B.S. degree in Computer Science and Technology at <a href="https://www.njtech.edu.cn/">Nanjing Tech University</a>, advised by <a href="https://cise.njtech.edu.cn/info/1015/6153.htm">Xili Wan</a>.
 
 # 💗 Research Interests
+-  AI for Networked Systems
 -  Quantum Communications and Networks
 -  Graph Neural Networks
--  AI for Science
-
-
 
 # 🔥 News
 <div class="news-container">
